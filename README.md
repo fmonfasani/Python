@@ -31,3 +31,37 @@ and objects in their programs.
 10-Creating a finance web page with Python: In this chapter, students will learn how to create a finance web page using Python and some 
 popular web libraries such as Flask or Django.
 
+
+## Índice
+
+- [Day One: Introduction](#day-one-introduction)
+- [Day Two: Getting started with Python and AI](#day-two-getting-started-with-python-and-ai)
+- [Day Three: Variables and Data Types](#day-three-variables-and-data-types)
+- [Day Four: Flow Control Structures](#day-four-flow-control-structures)
+- [Day Five: Functions](#day-five-functions)
+- [Day Six: Modules and Packages](#day-six-modules-and-packages)
+- [Day Seven: Files](#day-seven-files)
+- [Day Eight: Object-Oriented Programming in Python](#day-eight-object-oriented-programming-in-python)
+- [Day Nine: Building a Finance Web Page with Python](#day-nine-building-a-finance-web-page-with-python)
+- [Day Ten: Conclusion](#day-ten-conclusion)
+
+## Day One: Introduction
+
+## Day Two: Getting started with Python and AI
+
+## Day Three: Variables and Data Types
+
+## Day Four: Flow Control Structures
+
+## Day Five: Functions
+
+## Day Six: Modules and Packages
+
+## Day Seven: Files
+
+## Day Eight: Object-Oriented Programming in Python
+
+## Day Nine: Building a Finance Web Page with Python
+
+## Day Ten: Conclusion
+
